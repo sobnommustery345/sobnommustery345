@@ -88,9 +88,10 @@ HTML, CSS, JavaScript, PHP, Bootstrap, WordPress Development, E-commerce Solutio
 ---
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobnommustery345" width="100%" height="100%" alt="Top Languages" />
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sobnommustery345)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sobnommustery345&show_icons=true)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobnommustery345" width="55%" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sobnommustery345&show_icons=true" width="55%" alt="Top Languages" />
+</div>
 
 ---
 
