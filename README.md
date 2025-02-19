@@ -3,13 +3,13 @@
 # Hi there 👋, my name is MST Sobnom Mustery Mimma
 ## ⭐ Expert Virtual Assistant | Web Development | Design ⭐
 
-**About Me:**
+### 📌 About Me:
 
 As a dedicated **Virtual Assistant** with a strong background in **Web Design** & **Development**, I bring a comprehensive skill set to meet your business needs. 
 
 My expertise spans across various domains, ensuring that I provide top-notch support and creative solutions.
 
-***📝 Key Skills:***
+### 📝 Key Skills:
 
 ✒️ Data Entry: Accurate and efficient handling of data.<br>
 ✒️ Data Scraping: Extracting valuable information from websites.<br>
@@ -22,7 +22,7 @@ My expertise spans across various domains, ensuring that I provide top-notch sup
 ✒️ Lead Generation: Identifying and cultivating potential leads.<br>
 ✒️ Web Scraping: Automating data extraction from web sources.<br>
 
-📝 Web Design & Development Services:
+***📝 Web Design & Development Services:***
 
 ✒️ Responsive Web Design: Creating websites that look great on all devices.<br>
 ✒️ UI/UX Design: Designing intuitive and engaging user interfaces.<br>
@@ -35,7 +35,7 @@ My expertise spans across various domains, ensuring that I provide top-notch sup
 ✒️ Email Template: Designing responsive templates.<br>
 ✒️ HTML Email: Creating visually appealing emails.<br>
 
-📝 Design Services:
+***📝 Design Services:***
 
 ✒️ Logo Design: Creating unique and memorable logos.<br>
 ✒️ Business Card Design: Designing professional business cards.<br>
@@ -50,24 +50,21 @@ My expertise spans across various domains, ensuring that I provide top-notch sup
 Thanks you,<br>
 MST Sobnom Mustery Mimma.
 
-Skills: HTML, CSS, JavaScript, PHP, Bootstrap, WordPress Development, E-commerce Solutions, UI/UX Design, Responsive Design, Email Campaigns, Klaviyo, MailChimp, Email Templates, HTML Email, Logo Design, Business Card Design, Banner Design, Poster Design, T-shirt Design, Flyer Design, Virtual Assistant, Web Design, Web Development, Data Entry, Data Scraping, Personal Assistant, Web Research, Copy Paste, Data Mining, Data Collection, Microsoft Excel, Lead Generation, Web Scraping, MST Sobnom Mustery Mimma.
+### 🔰 Keywords:
 
-- 🔭 I’m currently working on Freelancer.com 
+HTML, CSS, JavaScript, PHP, Bootstrap, WordPress Development, E-commerce Solutions, UI/UX Design, Responsive Design, Email Campaigns, Klaviyo, MailChimp, Email Templates, HTML Email, Logo Design, Business Card Design, Banner Design, Poster Design, T-shirt Design, Flyer Design, Virtual Assistant, Web Design, Web Development, Data Entry, Data Scraping, Personal Assistant, Web Research, Copy Paste, Data Mining, Data Collection, Microsoft Excel, Lead Generation, Web Scraping, MST Sobnom Mustery Mimma.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sobnommustery345)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mst-sobnom-mustery-mimma-92598b2a3/)  
+- 🔭 I’m currently working on [Freelancer.com](https://www.freelancer.com/u/sobnommustery345)
+- 🔭 I’m currently working on [PeoplePerHour.](https://www.peopleperhour.com/freelancer/business/mst_sobnom_mustery-mimma-virtual-assistant-web-developer-nwqwnjm)
+
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sobnommustery345)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobnommustery345)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sobnommustery345&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sobnommustery345/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/sobnommustery345)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sobnommustery345)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="color:;">](https://github.com/sobnommustery345)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="color:blue;">](https://www.linkedin.com/in/mst-sobnom-mustery-mimma-92598b2a3/)
