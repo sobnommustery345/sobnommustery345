@@ -11,40 +11,38 @@ As a dedicated **Virtual Assistant** with a strong background in **Web Design** 
 
 My expertise spans across various domains, ensuring that I provide top-notch support and creative solutions.
 
----
+#### 📝 Key Skills:
+✒️ Data Entry: Accurate and efficient handling of data.
+✒️ Data Scraping: Extracting valuable information from websites.
+✒️ Personal Assistant: Reliable administrative support.
+✒️ Web Research: In-depth research and information gathering.
+✒️ Copy Paste: Quick and precise data transfer.
+✒️ Data Mining: Analyzing large datasets for insights.
+✒️ Data Collection: Systematic data gathering.
+✒️ Microsoft Excel: Advanced spreadsheet management.
+✒️ Lead Generation: Identifying and cultivating potential leads.
+✒️ Web Scraping: Automating data extraction from web sources.
 
-## 📝 Key Skills:
-- ✒️ Data Entry: Accurate and efficient handling of data.
-- ✒️ Data Scraping: Extracting valuable information from websites.
-- ✒️ Personal Assistant: Reliable administrative support.
-- ✒️ Web Research: In-depth research and information gathering.
-- ✒️ Copy Paste: Quick and precise data transfer.
-- ✒️ Data Mining: Analyzing large datasets for insights.
-- ✒️ Data Collection: Systematic data gathering.
-- ✒️ Microsoft Excel: Advanced spreadsheet management.
-- ✒️ Lead Generation: Identifying and cultivating potential leads.
-- ✒️ Web Scraping: Automating data extraction from web sources.
+#### 📝 Web Design & Development Services:
+✒️ Responsive Web Design: Creating websites that look great on all devices.
+✒️ UI/UX Design: Designing intuitive and engaging user interfaces.
+✒️ HTML/CSS/JavaScript/PHP/Bootstrap: Building robust and clean code.
+✒️ WordPress Development: Customizing WordPress sites to meet your needs.
+✒️ E-commerce Solutions: Developing online stores with seamless functionality.
+✒️ Email Campaign: Crafting targeted email strategies.
+✒️ Klaviyo: Implementing personalized email solutions.
+✒️ MailChimp: Managing and optimizing email campaigns.
+✒️ Email Template: Designing responsive templates.
+✒️ HTML Email: Creating visually appealing emails.
 
-### 📝 Web Design & Development Services:
-- ✒️ Responsive Web Design: Creating websites that look great on all devices.
-- ✒️ UI/UX Design: Designing intuitive and engaging user interfaces.
-- ✒️ HTML/CSS/JavaScript/PHP/Bootstrap: Building robust and clean code.
-- ✒️ WordPress Development: Customizing WordPress sites to meet your needs.
-- ✒️ E-commerce Solutions: Developing online stores with seamless functionality.
-- ✒️ Email Campaign: Crafting targeted email strategies.
-- ✒️ Klaviyo: Implementing personalized email solutions.
-- ✒️ MailChimp: Managing and optimizing email campaigns.
-- ✒️ Email Template: Designing responsive templates.
-- ✒️ HTML Email: Creating visually appealing emails.
-
-### 📝 Design Services:
-- ✒️ Logo Design: Creating unique and memorable logos.
-- ✒️ Business Card Design: Designing professional business cards.
-- ✒️ Banner Design: Crafting eye-catching banners.
-- ✒️ Poster Design: Designing impactful posters.
-- ✒️ T-shirt Design: Creating trendy t-shirt graphics.
-- ✒️ Flyer Design: Designing informative and attractive flyers.
-- ✒️ 3D Logo Design: Bringing logos to life with 3D design.
+#### 📝 Design Services:
+✒️ Logo Design: Creating unique and memorable logos.
+✒️ Business Card Design: Designing professional business cards.
+✒️ Banner Design: Crafting eye-catching banners.
+✒️ Poster Design: Designing impactful posters.
+✒️ T-shirt Design: Creating trendy t-shirt graphics.
+✒️ Flyer Design: Designing informative and attractive flyers.
+✒️ 3D Logo Design: Bringing logos to life with 3D design.
 
 ---
 
