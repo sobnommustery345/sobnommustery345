@@ -1,70 +1,100 @@
-![⭐ Expert Virtual Assistant | Web Development | Design ⭐ MST Sobnom Mustery Mimma](https://github.com/user-attachments/assets/0b45cd3b-57ed-40f3-aad6-d49320c57937)
+![Cover Photo](https://github.com/user-attachments/assets/0b45cd3b-57ed-40f3-aad6-d49320c57937)
 
-# Hi there 👋, my name is MST Sobnom Mustery Mimma
-## ⭐ Expert Virtual Assistant | Web Development | Design ⭐
+## Hi there 👋, my name is MST Sobnom Mustery Mimma  
 
-### 📌 About Me:
+### ⭐ Expert Virtual Assistant | Web Development | Design ⭐
 
-As a dedicated **Virtual Assistant** with a strong background in **Web Design** & **Development**, I bring a comprehensive skill set to meet your business needs. 
+---
+
+## 📌 About Me:
+As a dedicated **Virtual Assistant** with a strong background in **Web Design** & **Development**, I bring a comprehensive skill set to meet your business needs.
 
 My expertise spans across various domains, ensuring that I provide top-notch support and creative solutions.
 
-### 📝 Key Skills:
+---
 
-✒️ Data Entry: Accurate and efficient handling of data.<br>
-✒️ Data Scraping: Extracting valuable information from websites.<br>
-✒️ Personal Assistant: Reliable administrative support.<br>
-✒️ Web Research: In-depth research and information gathering.<br>
-✒️ Copy Paste: Quick and precise data transfer.<br>
-✒️ Data Mining: Analyzing large datasets for insights.<br>
-✒️ Data Collection: Systematic data gathering.<br>
-✒️ Microsoft Excel: Advanced spreadsheet management.<br>
-✒️ Lead Generation: Identifying and cultivating potential leads.<br>
-✒️ Web Scraping: Automating data extraction from web sources.<br>
+## 📝 Key Skills:
+- ✒️ Data Entry: Accurate and efficient handling of data.
+- ✒️ Data Scraping: Extracting valuable information from websites.
+- ✒️ Personal Assistant: Reliable administrative support.
+- ✒️ Web Research: In-depth research and information gathering.
+- ✒️ Copy Paste: Quick and precise data transfer.
+- ✒️ Data Mining: Analyzing large datasets for insights.
+- ✒️ Data Collection: Systematic data gathering.
+- ✒️ Microsoft Excel: Advanced spreadsheet management.
+- ✒️ Lead Generation: Identifying and cultivating potential leads.
+- ✒️ Web Scraping: Automating data extraction from web sources.
 
-***📝 Web Design & Development Services:***
+### 📝 Web Design & Development Services:
+- ✒️ Responsive Web Design: Creating websites that look great on all devices.
+- ✒️ UI/UX Design: Designing intuitive and engaging user interfaces.
+- ✒️ HTML/CSS/JavaScript/PHP/Bootstrap: Building robust and clean code.
+- ✒️ WordPress Development: Customizing WordPress sites to meet your needs.
+- ✒️ E-commerce Solutions: Developing online stores with seamless functionality.
+- ✒️ Email Campaign: Crafting targeted email strategies.
+- ✒️ Klaviyo: Implementing personalized email solutions.
+- ✒️ MailChimp: Managing and optimizing email campaigns.
+- ✒️ Email Template: Designing responsive templates.
+- ✒️ HTML Email: Creating visually appealing emails.
 
-✒️ Responsive Web Design: Creating websites that look great on all devices.<br>
-✒️ UI/UX Design: Designing intuitive and engaging user interfaces.<br>
-✒️ HTML/CSS/JavaScript/PHP/Bootstrap: Building robust and clean code.<br>
-✒️ WordPress Development: Customizing WordPress sites to meet your needs.<br>
-✒️ E-commerce Solutions: Developing online stores with seamless functionality.<br>
-✒️ Email Campaign: Crafting targeted email strategies.<br>
-✒️ Klaviyo: Implementing personalized email solutions.<br>
-✒️ MailChimp: Managing and optimizing email campaigns.<br>
-✒️ Email Template: Designing responsive templates.<br>
-✒️ HTML Email: Creating visually appealing emails.<br>
+### 📝 Design Services:
+- ✒️ Logo Design: Creating unique and memorable logos.
+- ✒️ Business Card Design: Designing professional business cards.
+- ✒️ Banner Design: Crafting eye-catching banners.
+- ✒️ Poster Design: Designing impactful posters.
+- ✒️ T-shirt Design: Creating trendy t-shirt graphics.
+- ✒️ Flyer Design: Designing informative and attractive flyers.
+- ✒️ 3D Logo Design: Bringing logos to life with 3D design.
 
-***📝 Design Services:***
+---
 
-✒️ Logo Design: Creating unique and memorable logos.<br>
-✒️ Business Card Design: Designing professional business cards.<br>
-✒️ Banner Design: Crafting eye-catching banners.<br>
-✒️ Poster Design: Designing impactful posters.<br>
-✒️ T-shirt Design: Creating trendy t-shirt graphics.<br>
-✒️ Flyer Design: Designing informative and attractive flyers.<br>
-✒️ 3D Logo Design: Bringing logos to life with 3D design.<br>
+## 🎯 Software & Languages:
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3 logo" />
+    <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="Adobe Illustrator logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" height="50" alt="Photoshop logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" alt="Canva logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/768px-Information_icon.svg.png" width="50" height="50" alt="Other logo" />
+</div>
 
-" With a passion for creativity and a commitment to excellence, I am here to help you achieve your goals efficiently and effectively. Let's connect and explore how I can contribute to your success! "
 
-Thanks you,<br>
-MST Sobnom Mustery Mimma.
+---
 
-### 🔰 Keywords:
+## 🙋‍♀️ Hire Me:
+🔭 Hire me on [Freelancer.com](https://www.freelancer.com/u/sobnommustery345)  
+🔭 Hire me on [PeoplePerHour](https://www.peopleperhour.com/freelancer/business/mst_sobnom_mustery-mimma-virtual-assistant-web-developer-nwqwnjm)
 
+---
+
+## 🔰 Keywords:
 HTML, CSS, JavaScript, PHP, Bootstrap, WordPress Development, E-commerce Solutions, UI/UX Design, Responsive Design, Email Campaigns, Klaviyo, MailChimp, Email Templates, HTML Email, Logo Design, Business Card Design, Banner Design, Poster Design, T-shirt Design, Flyer Design, Virtual Assistant, Web Design, Web Development, Data Entry, Data Scraping, Personal Assistant, Web Research, Copy Paste, Data Mining, Data Collection, Microsoft Excel, Lead Generation, Web Scraping, MST Sobnom Mustery Mimma.
 
+---
 
-- 🔭 I’m currently working on [Freelancer.com](https://www.freelancer.com/u/sobnommustery345)
-- 🔭 I’m currently working on [PeoplePerHour.](https://www.peopleperhour.com/freelancer/business/mst_sobnom_mustery-mimma-virtual-assistant-web-developer-nwqwnjm)
+## 🏆 Badges:
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="50" height="50" alt="Other logo" /> 
+![Dev Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)  
+![Pro Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)  
+![Star Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif)  
+![Sponsor Badge](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif)
 
+---
 
+## 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobnommustery345" width="100%" height="100%" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sobnommustery345)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sobnommustery345&show_icons=true)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sobnommustery345)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sobnommustery345&show_icons=true)  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="color:;">](https://github.com/sobnommustery345)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="color:blue;">](https://www.linkedin.com/in/mst-sobnom-mustery-mimma-92598b2a3/)
+## 🔗 Connect with Me:
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width="50" height="50" alt="Other logo" />
+[![GitHub]()](https://github.com/sobnommustery345)  
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/mst-sobnom-mustery-mimma-92598b2a3/)
