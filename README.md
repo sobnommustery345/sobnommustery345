@@ -75,12 +75,6 @@ Thanks you,<br>
 
 ---
 
-### 🙋‍♀️ Hire Me:
-🔭 Hire me on [Freelancer.com](https://www.freelancer.com/u/sobnommustery345)  
-🔭 Hire me on [PeoplePerHour](https://www.peopleperhour.com/freelancer/business/mst_sobnom_mustery-mimma-virtual-assistant-web-developer-nwqwnjm)
-
----
-
 ### 🔰 Keywords:
 HTML, CSS, JavaScript, PHP, Bootstrap, WordPress Development, E-commerce Solutions, UI/UX Design, Responsive Design, Email Campaigns, Klaviyo, MailChimp, Email Templates, HTML Email, Logo Design, Business Card Design, Banner Design, Poster Design, T-shirt Design, Flyer Design, Virtual Assistant, Web Design, Web Development, Data Entry, Data Scraping, Personal Assistant, Web Research, Copy Paste, Data Mining, Data Collection, Microsoft Excel, Lead Generation, Web Scraping, MST Sobnom Mustery Mimma.
 
